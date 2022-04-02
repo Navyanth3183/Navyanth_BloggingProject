@@ -1,1 +1,1 @@
-# Navyanth_BloggingProject
+# Navyanth_BudgetPlanner
